@@ -125,7 +125,9 @@ body li, body a {
   line-height: 125%;
   color: #1F2024;
 }
-
+.header__nav-list-link{
+        display: inline-block;
+    }
 ._bolt {
   font-family: 'Roboto';
   font-style: normal;
