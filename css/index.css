@@ -125,9 +125,7 @@ body li, body a {
   line-height: 125%;
   color: #1F2024;
 }
-.header__nav-list-link{
-        display: inline-block;
-    }
+
 ._bolt {
   font-family: 'Roboto';
   font-style: normal;
@@ -202,6 +200,9 @@ body li, body a {
         -ms-flex-direction: column;
             flex-direction: column;
   }
+  .header__nav-list-link{
+        display: inline-block;
+    }
   .header__nav-list-item {
     text-align: end;
     margin: 0px 17px 48px 0px;
